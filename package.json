@@ -1,0 +1,23 @@
+{
+  "name": "lib-math2",
+  "version": "1.0.0",
+  "description": "extra math stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erniehs/Math2.git"
+  },
+  "author": "Ernie <ernie_hs@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/erniehs/Math2/issues"
+  },
+  "homepage": "https://github.com/erniehs/Math2#readme"
+}
