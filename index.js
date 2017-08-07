@@ -5,3 +5,5 @@ class Math2 {
     return x >= a && x <= b;
   }
 }
+
+module.exports.Math2 = Math2;
